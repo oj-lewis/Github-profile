@@ -1,7 +1,7 @@
 Hi 👋 My name is Omiete John-lewis
 ==================================
 
-Web developer
+Software developer
 -------------
 
 * ✉️  You can contact me at [omietejohnlewis2@gmail.com](mailto:omietejohnlewis2@gmail.com)
